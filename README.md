@@ -19,3 +19,5 @@ a problem posted on Kaggle for Walmart.
 Link to the Kaggle Problem: [Store Sales Forecasting For Weather Sensitive Products](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
 
 For entire details on the model creation and accuracy, please refer to the file [final_report.pdf](https://github.com/meghanakotagiri/Sales-forecasting-for-weather-sensitive-products/blob/master/final_report.pdf)
+
+Contributors: Meghana Kotagiri(meghanakotagiri), G Neha (nehareddyg)
